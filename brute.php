@@ -1,6 +1,7 @@
 <?php
 
-// This is a bute force 
+// This is a bute force approach. It time time complexity
+// can be likened to O(n^2)
 function cleanup(array $va): array
 {
     $b = [];

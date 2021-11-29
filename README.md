@@ -12,3 +12,8 @@ If any of the above appear in the array, remove the single item and console log 
 Example {"name":{"first":"Daniel", "middle":N/A, "last":"Smith",}, "age":45}
 
 Result {"name":{"first":"Daniel", "last":"Smith",}, "age":45}
+
+## Solutions
+Two solutions are provided, a brute force solution in brute.php and an improved solution in better.php.
+
+NB: The improvements are only with respect to time complexity of solution 
